@@ -4,14 +4,14 @@ layout: feed
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-	<title>Aakash deep sharma's Blog</title>
+	<title>Aakash Deep Sharma's Blog</title>
 	<link href="http://aakash-deep-sharma.github.io/blog/atom.xml" rel="self"/>
 	<link href="http://aakash-deep-sharma.github.io/blog"/>
 	<updated>{{ site.time | date_to_xmlschema }}</updated>
 	<id>http://aakash-deep-sharma.github.io/blog</id>
 	<author>
-		<name>aakash deep sharma</name>
-		<email>aakash.vs13@gmail.com</email>
+		<name>Aakash Deep Sharma</name>
+		<email>aakash.vs13@@gmail.com</email>
 	</author>
 
 	{% for post in site.posts %}
