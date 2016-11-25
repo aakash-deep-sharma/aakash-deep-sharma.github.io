@@ -1,3 +1,5 @@
+
+.header, .footer, .header h3 { font-family: 'Montserrat', Helvetica, sans-serif; text-transform: uppercase; font-weight: normal; }
 body {
     margin: 60px auto;
     width: 70%;
