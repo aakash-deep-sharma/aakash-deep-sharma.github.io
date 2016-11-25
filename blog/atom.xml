@@ -11,7 +11,7 @@ layout: feed
 	<id>http://aakash-deep-sharma.github.io/blog</id>
 	<author>
 		<name>Aakash Deep Sharma</name>
-		<email>aakash.vs13@@gmail.com</email>
+		<email>aakash.vs13@gmail.com</email>
 	</author>
 
 	{% for post in site.posts %}
